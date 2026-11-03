@@ -20,6 +20,7 @@ Projeto de análise de dados de uma corrida de 15 km, desenvolvido com Power BI 
 
 # Dashboard:
 Análise demográfica e geográfica dos participantes.
+
 ![Dashboard Corrida 15K](https://raw.githubusercontent.com/lucpsantos/dashboard-corrida-powerbi/main/preview_dashboard_corrida1.png)
 
 # Tecnologias e Recursos utilizadas
