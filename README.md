@@ -19,9 +19,8 @@ Projeto de análise de dados de uma corrida de 15 km, desenvolvido com Power BI 
 - A distribuição geográfica permite visualizar a concentração de atletas nas diferentes regiões do Brasil.
 
 # Dashboard:
-Perfil dos participantes
 Análise demográfica e geográfica dos participantes.
-![Dashboard Corrida 15K](./preview_dashboard_corrida1.png)
+[Dashboard - Perfil dos Participantes](screenshots/perfil-participantes.png)
 
 # Tecnologias e Recursos utilizadas
 SQL, Power BI, ETL, DAX, Power Query, Criação de medidas e indicadores
