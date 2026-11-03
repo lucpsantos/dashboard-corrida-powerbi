@@ -20,7 +20,7 @@ Projeto de análise de dados de uma corrida de 15 km, desenvolvido com Power BI 
 
 # Dashboard:
 Análise demográfica e geográfica dos participantes.
-[Dashboard Corrida 15K](./preview_dashboard_corrida1.png)
+![Dashboard Corrida 15K](./preview_dashboard_corrida1.png)
 
 # Tecnologias e Recursos utilizadas
 SQL, Power BI, ETL, DAX, Power Query, Criação de medidas e indicadores
