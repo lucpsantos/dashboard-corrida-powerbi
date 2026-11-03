@@ -22,22 +22,22 @@ Projeto de análise de dados de uma corrida de 15 km, desenvolvido com Power BI 
 Perfil dos participantes
 Análise demográfica e geográfica dos participantes.
 
-#Tecnologias e Recursos utilizadas
+# Tecnologias e Recursos utilizadas
 SQL, Power BI, ETL, DAX, Power Query, Criação de medidas e indicadores
 
-#Como utilizar:
+# Como utilizar:
 Clone ou faça o download deste repositório.
 Abra o arquivo .pbix no Power BI Desktop.
 Caso necessário, ajuste a origem dos dados.
 Explore as páginas e interaja com os filtros do dashboard.
 
-#Próximas etapas:
-Desenvolver a página de Performance Esportiva.
-Analisar os tempos dos diferentes trechos da corrida.
-Comparar o desempenho entre faixas etárias.
-Investigar a consistência dos atletas.
-Aprimorar os indicadores e visualizações.
+# Próximas etapas:
+- Desenvolver a página de Performance Esportiva.
+- Analisar os tempos dos diferentes trechos da corrida.
+- Comparar o desempenho entre faixas etárias.
+- Investigar a consistência dos atletas.
+- Aprimorar os indicadores e visualizações.
 
-#Sobre o projeto
+# Sobre o projeto
 Este projeto faz parte da minha jornada de aprendizado em Análise de Dados, com foco na aplicação prática de Power BI, DAX e visualização de dados.
 O desenvolvimento é contínuo, com novas análises e funcionalidades sendo incorporadas ao longo do aprendizado.
